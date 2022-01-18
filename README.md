@@ -5,10 +5,10 @@ I'd love to make this a career. I started learning MSDos when I 5yr old.
 ...
 
 - 🌱 I’m currently learning(or always still working on learning) all parts of Javascript,
- and woprking on C# to try at some game development.
+ and working on C# to try at some game development.
 ...
 
-- 💞️ I’m looking to collaborate on I really don't know yet. I need to work on a project to get the experience,
+- 💞️ I’m looking to collaborate on I really don't know yet. I need to work on a few projects to get the experience,
 but I don't get to much time to really work on anything with work, kids, and life. 
 As most can see I don't get to push to my gethub pretty much at all.
 ...
